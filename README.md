@@ -5,6 +5,9 @@
 java -cp . Connect4
 java -cp . ConnectN <N> , where N is the number for winning condition.
 ```
+# Class Diagram
+![image](https://user-images.githubusercontent.com/366335/128782035-38ab17cd-11bb-4233-a312-bb68fe80dd88.png)
+
 
 # Demo
 ![image](https://user-images.githubusercontent.com/366335/128779272-ddda5e01-3200-48bb-9015-7f265af17d2a.png)
