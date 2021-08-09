@@ -1,0 +1,10 @@
+Execution Step for Connect4:
+
+cd <PROJECT_ROOT>
+java -cp . Connect4
+
+----------------------------
+Execution Step for ConnectN:
+
+cd <PROJECT_ROOT>
+java -cp . ConnectN <N> , where N is the number for winning condition.
